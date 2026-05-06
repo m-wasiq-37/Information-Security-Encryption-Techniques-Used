@@ -7,8 +7,7 @@ This project implements multiple encryption techniques to secure user input text
 
 ---
 
-![Uploading image.png…]()
-
+<img width="1856" height="940" alt="image" src="https://github.com/user-attachments/assets/fe037327-f85d-44f1-9b02-8bbde29cb522" />
 
 ## 1. Caesar Cipher
 
